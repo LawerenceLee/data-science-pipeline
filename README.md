@@ -8,7 +8,7 @@ If you come out of this tutorial thinking that you now have a good feeling for h
 
 ## Getting Started
 
-Please get started by cloning this repository locally to your workstation. All of the working files are Jupyter Notebook files denoted by the .ipynb extension. If you are unfamiliar with Jupyter Notebooks, please check out this [YouTube video](https://www.youtube.com/watch?v=HW29067qVWk"). The notebooks work together with the data files housed adjacent to the repository folder and entitled "data_files". Rest assured, they are very light-weight files (under 5MB) so feel free to clone the entire repository. 
+Please get started by cloning this repository locally to your workstation. All of the working files are Jupyter Notebook files denoted by the .ipynb extension. If you are unfamiliar with Jupyter Notebooks, please check out this [YouTube video](https://www.youtube.com/watch?v=HW29067qVWk). The notebooks work together with the data files housed adjacent to the repository folder and entitled "data_files". Rest assured, they are very light-weight files (under 5MB) so feel free to clone the entire repository. 
 
 ### Prerequisites
 
@@ -22,8 +22,8 @@ I also recommend having a virtual environment for this tutorial. Please consider
 
 The tutorial moves swiftly as it assumes working knowledge of the Python programming language, Pandas and NumPy. Please consider these resources to fill in some of the deliberate omissions in this tutorial. 
 
-- [Learn Python Quickly](https://learnpythonthehardway.org/")
-- [Learn Pandas and NumPy](https://www.youtube.com/watch?v=HW29067qVWk")
+- [Learn Python Quickly](https://learnpythonthehardway.org/)
+- [Learn Pandas and NumPy](https://www.youtube.com/watch?v=HW29067qVWk)
 
 ### Required Python Libraries 
 
@@ -52,7 +52,6 @@ I intend to create a separate Python 3.x version of this repository. Note that s
 ## Authors / Contributing
 
 * **D.H. Kim** - *Initial Work* - [dhexonian](https://github.com/dhexonian)
-
 Ping me if you want to contribute to building a formal pipeline/guide to learn data science.
 
 ## License
