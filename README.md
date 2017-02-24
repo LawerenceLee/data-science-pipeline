@@ -2,7 +2,7 @@
 
 This repository is dedicated to helping newcomers to data science who desire a basic primer to get swiftly situated and practicing data science. I don't intend for this resource to be comprehensive. A much more thorough primer covering basic statistics, probability, linear algebra, machine learning and more will be covered in a MOOC format that I intend to release upon near completion. Please stay tuned for that.  
 
-### Goal 
+## Goal 
 
 If you come out of this tutorial thinking that you now have a good feeling for how to tackle a data science problem and can abstractly describe a pipeline to do so, then I feel this tutorial has satisfied its purpose. 
 
@@ -54,12 +54,10 @@ I intend to create a separate Python 3.x version of this repository. Note that s
 ## Authors / Contributing
 
 * **D.H. Kim** - *Initial Work* - [dhexonian](https://github.com/dhexonian)
-Ping me if you want to contribute to building a formal pipeline/guide to learn data science.
 
 ## License
 
-This project is free to distribute and utilize with good intent. 
-If you feel you have benefited from the tutorials, please consider giving me feedback via my contacts below. 
+This project is free to distribute and utilize with good intent.  
 
 ## Contact
 Please consider following me on Twitter @dhexonian and Medium @dhexonian. 
