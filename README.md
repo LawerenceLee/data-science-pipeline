@@ -1,4 +1,4 @@
-# What is dhexonian pipeline? 
+# About
 
 This repository is dedicated to helping newcomers to data science who desire a basic primer to get swiftly situated and practicing data science. I don't intend for this resource to be comprehensive. A much more thorough primer covering basic statistics, probability, linear algebra, machine learning and more will be covered in a MOOC format that I intend to release upon near completion. Please stay tuned for that.  
 
