@@ -10,6 +10,8 @@ If you come out of this tutorial thinking that you now have a good feeling for h
 
 Please get started by cloning this repository locally to your workstation. All of the working files are Jupyter Notebook files denoted by the .ipynb extension. If you are unfamiliar with Jupyter Notebooks, please check out this [YouTube video](https://www.youtube.com/watch?v=HW29067qVWk). The notebooks work together with the data files housed adjacent to the repository folder and entitled "data_files". Rest assured, they are very light-weight files (under 5MB) so feel free to clone the entire repository. 
 
+Please note that there is a supporting blog on [Medium](https://medium.com/dhexonian-pipeline) that goes in concert with the Jupyter Notebooks on the Github repository. 
+
 ### Prerequisites
 
 - Python 2.7x Installed (Note 3.x posesses similar syntax)
